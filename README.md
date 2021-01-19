@@ -45,3 +45,6 @@ Step 3 : アラームの消し方
 3. spresense_timer.pde  
 ・現在時刻を取得し、アラーム時刻を設定するProcessingのプログラム  
 ・PC上に現在時刻とアラーム時刻を表示する  
+
+## SysMLモデル  
+![コンテキスト](https://user-images.githubusercontent.com/76985880/104989464-dbbd3280-5a5d-11eb-8f0c-6c73a56bafb7.jpg)  
