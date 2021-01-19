@@ -52,3 +52,6 @@ Step 3 : アラームの消し方
 ![sysmlモデル_ページ_3](https://user-images.githubusercontent.com/76985880/104990264-9bf74a80-5a5f-11eb-9262-649e2e253dc7.jpg)
 ![sysmlモデル_ページ_4](https://user-images.githubusercontent.com/76985880/104990266-9c8fe100-5a5f-11eb-850c-4d9bf617edf3.jpg)
 ![sysmlモデル_ページ_5](https://user-images.githubusercontent.com/76985880/104990267-9d287780-5a5f-11eb-8c88-0a7f36ae381e.jpg)
+
+## LICENSE  
+MIT  
