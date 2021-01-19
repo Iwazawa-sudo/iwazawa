@@ -48,3 +48,7 @@ Step 3 : アラームの消し方
 
 ## SysMLモデル  
 ![コンテキスト](https://user-images.githubusercontent.com/76985880/104989464-dbbd3280-5a5d-11eb-8f0c-6c73a56bafb7.jpg)  
+![要求図](https://user-images.githubusercontent.com/76985880/104989656-42425080-5a5e-11eb-949f-91e145ce898c.jpg)  
+![アクティビティ図１](https://user-images.githubusercontent.com/76985880/104989660-453d4100-5a5e-11eb-8996-e78fc5dbd606.jpg)  
+![アクティビティ図２](https://user-images.githubusercontent.com/76985880/104989669-47070480-5a5e-11eb-943f-d7e14688427b.jpg)  
+![ブロック定義図](https://user-images.githubusercontent.com/76985880/104989674-49695e80-5a5e-11eb-915b-4a05b521485b.jpg)  
